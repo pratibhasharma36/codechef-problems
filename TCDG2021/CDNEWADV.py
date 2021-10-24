@@ -1,3 +1,4 @@
+#https://www.codechef.com/TCDG2021/problems/CDNEWADV
 testcases = int(input())
 for test in range (0, testcases):
     m, n = map(int, input().split())
